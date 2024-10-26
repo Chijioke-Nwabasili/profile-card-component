@@ -2,6 +2,11 @@
 
 This is a Profile card component project built using HTML and CSS
 
+## Highlights:
+
+Adapts beautifully across various devices.
+A visually appealing layout that effectively showcases user information.
+
 ## Live Link
 
 You can see the live project [here](https://chijioke-nwabasili.github.io/profile-card-component/)
